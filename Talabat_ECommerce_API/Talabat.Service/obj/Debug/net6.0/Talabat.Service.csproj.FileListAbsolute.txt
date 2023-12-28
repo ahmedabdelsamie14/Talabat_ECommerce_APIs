@@ -1,0 +1,99 @@
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 1\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 3\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+E:\course\API\DEMO 4\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 5\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+E:\course\API\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\MK\Downloads\DEMO 6\DEMO 6\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\hp\Downloads\Talabat_ECommerce_API\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
